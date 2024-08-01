@@ -1,1 +1,0 @@
--force-include-file "locatecom.h";"c:\Users\stopc\Desktop\OglPlane\locatecom.h" -force-include-file "OglPlane.c";"c:\Users\stopc\Desktop\OglPlane\OglPlane.c" -force-include-file "OglPlane.h";"c:\Users\stopc\Desktop\OglPlane\OglPlane.h" -force-include-file "OglRender.c";"c:\Users\stopc\Desktop\OglPlane\OglRender.c" 
