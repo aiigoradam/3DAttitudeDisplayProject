@@ -1,0 +1,20 @@
+[InitOGLControl]
+Class="Function"
+Prototype="void InitOGLControl();"
+
+[RenderImage]
+Class="Function"
+Prototype="void RenderImage(int fastFlag);"
+
+[DrawMissileBody]
+Class="Function"
+Prototype="void DrawMissileBody(int fastFlag);"
+
+[DrawClosedCylinder]
+Class="Function"
+Prototype="void DrawClosedCylinder(struct GLUquadric *object, float radius, float height);"
+
+[OGLCallback]
+Class="Function"
+Prototype="int OGLCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
