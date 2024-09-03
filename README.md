@@ -2,6 +2,8 @@
 
 This project implements a 3D attitude display for aircraft or spacecraft, visualizing pitch, roll, and yaw in real-time using OpenGL.
 
+![Logo](3DAttitudeDisplay.gif)
+
 ## Features
 
 - Real-time 3D visualization of aircraft/spacecraft attitude
