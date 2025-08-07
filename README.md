@@ -1,6 +1,5 @@
-# 3D Attitude Display
 
-This project implements a 3D attitude display for aircraft or spacecraft, visualizing pitch, roll, and yaw in real-time using OpenGL.
+3D attitude display of aircraft, visualizing pitch, roll, and yaw in real-time using OpenGL.
 
 ![Logo](3DAttitudeDisplay.gif)
 
@@ -18,12 +17,6 @@ This project implements a 3D attitude display for aircraft or spacecraft, visual
 - OpenGL libraries
 - RS-232 compatible device for data input
 
-## Setup
-
-1. Ensure LabWindows/CVI is installed with OpenGL support.
-2. Connect your RS-232 compatible device.
-3. Configure the COM port settings in the application.
-4. Run the application and connect to start visualizing attitude data.
 
 ## Usage
 
@@ -40,8 +33,3 @@ You can modify connection parameters such as baud rate, parity, data bits, and s
 ## Logging
 
 The application logs all significant events and data to both the UI and a text file for later review.
-
-## Author
-Copyright (c) 2024 Igor Adamenko. All rights reserved.
-Afeka College of Engineering
-Electrical Engineering Department 
